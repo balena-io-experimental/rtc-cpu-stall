@@ -1,0 +1,7 @@
+[package]
+name = "clock"
+version = "0.1.0"
+authors = ["Zahari Petkov <zahari@balena.io>"]
+
+[dependencies]
+nix = "0.11"
